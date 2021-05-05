@@ -17,7 +17,7 @@
 schemaVersion: 2.0.0
 metadata:
   name: my-jol
-  version: 0.1
+  version: 0.1.0
   description: My Java application stack using Open Liberty runtime
   displayName: "My Open Liberty"
   language: "java"
